@@ -1,0 +1,50 @@
+.btn{
+  margin-left: 300px;
+  background-color: #116D6E;
+}
+
+body{
+  background-color: #2C3333;
+  color: white;
+}
+
+.img{
+  width: 15%;
+  margin-left: 50px;
+}
+
+.img2{
+  border-radius: 25%;
+    float: left;
+    margin-right: 100px;
+}
+
+
+
+h1{
+  color: #116D6E;
+}
+
+h3{
+  color: #116D6E;
+}
+
+.btn2{
+  color: #116D6E;
+  border-color: #116D6E;
+   font-size: 20px;
+
+}
+
+.pic{
+  padding: 100px;
+  margin-right: 50px;
+
+}
+.f1{
+  margin-left: 50px;
+  color:  #116D6E;
+}
+.btn{
+  background-color: #116D6E;
+}
